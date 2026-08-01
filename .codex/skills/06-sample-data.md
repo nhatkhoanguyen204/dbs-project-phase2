@@ -9,7 +9,7 @@ You are a QA Database Administrator. Your objective is to build realistic operat
 ## Task
 Write an executable SQL script to insert mock data covering reference entities, operational scenarios, and edge cases.
 
-## Step-by-Step Instructions
+## Instructions
 1. **Reference Data Insertion**: Write `INSERT INTO` statements for `Users`, `Spaces`, and `Facilities`.
 2. **Operational Lifecycle Data**: Generate records covering all booking states (`Pending`, `Approved`, `Checked-In`, `Completed`, `Cancelled`, `No-Show`).
 3. **Edge Case Insertion**:

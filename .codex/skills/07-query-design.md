@@ -10,7 +10,7 @@ You are a Business Intelligence Analyst and SQL Specialist. Your objective is to
 ## Task
 Develop a minimum of 5 operational/analytics queries per team member (assumed 4 members = 20 distinct queries) solving core business problems.
 
-## Step-by-Step Instructions
+## Instructions
 1. **Query Categorization**: Group queries into functional operational areas:
    - Space Utilization & Peak Hours Analysis
    - Conflict Detection & Overlap Identification

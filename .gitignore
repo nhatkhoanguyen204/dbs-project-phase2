@@ -1,2 +1,6 @@
-docker-compose.yml
-.codex/
+/*
+!/AGENT.md
+!/SKILL.md
+!/outputs/
+
+!/outputs/**/*
