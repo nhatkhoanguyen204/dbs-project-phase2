@@ -1,6 +1,5 @@
-/*
-!/AGENT.md
-!/SKILL.md
-!/outputs/
-
-!/outputs/**/*
+AGENTS.md
+docker-compose.yml
+G_Report_P2.md
+reference/
+.codex/
